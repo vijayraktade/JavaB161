@@ -8,6 +8,9 @@ public class Student {
 		
 
 	}
+	public void m2(){
+		System.out.println("welcome to cjc...!");
+	}
 	public void m1() {
 		System.out.println("welcome GitHub...");
 	}
